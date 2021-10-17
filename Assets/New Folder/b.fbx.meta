@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 0c79b487a419b8b46953829b10352817
+timeCreated: 1602787535
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Bear_Head_JawEndSHJnt
+    100006: Bear_Head_JawEndSHJnt_end
+    100008: Bear_Head_JawSHJnt
+    100010: Bear_Head_TopSHJnt
+    100012: Bear_l_Clavicle_01_01SHJnt
+    100014: Bear_l_Ear_01_01SHJnt
+    100016: Bear_l_Ear_01_02SHJnt
+    100018: Bear_l_Ear_01_02SHJnt_end
+    100020: Bear_l_FrontLeg_AnkleSHJnt
+    100022: Bear_l_FrontLeg_BallSHJnt
+    100024: Bear_l_FrontLeg_HipSHJnt
+    100026: Bear_l_FrontLeg_KneeSHJnt
+    100028: Bear_l_FrontLeg_ToeSHJnt
+    100030: Bear_l_FrontLeg_ToeSHJnt_end
+    100032: Bear_l_HindLeg_AnkleSHJnt
+    100034: Bear_l_HindLeg_BallSHJnt
+    100036: Bear_l_HindLeg_HipSHJnt
+    100038: Bear_l_HindLeg_KneeSHJnt
+    100040: Bear_l_HindLeg_ToeSHJnt
+    100042: Bear_l_HindLeg_ToeSHJnt_end
+    100044: Bear_MAINSHJnt
+    100046: Bear_Neck_01SHJnt
+    100048: Bear_Neck_02SHJnt
+    100050: Bear_Neck_TopSHJnt
+    100052: Bear_r_Clavicle_01_01SHJnt
+    100054: Bear_r_Ear_01_01SHJnt
+    100056: Bear_r_Ear_01_02SHJnt
+    100058: Bear_r_Ear_01_02SHJnt_end
+    100060: Bear_r_FrontLeg_AnkleSHJnt
+    100062: Bear_r_FrontLeg_BallSHJnt
+    100064: Bear_r_FrontLeg_HipSHJnt
+    100066: Bear_r_FrontLeg_KneeSHJnt
+    100068: Bear_r_FrontLeg_ToeSHJnt
+    100070: Bear_r_FrontLeg_ToeSHJnt_end
+    100072: Bear_r_HindLeg_AnkleSHJnt
+    100074: Bear_r_HindLeg_BallSHJnt
+    100076: Bear_r_HindLeg_HipSHJnt
+    100078: Bear_r_HindLeg_KneeSHJnt
+    100080: Bear_r_HindLeg_ToeSHJnt
+    100082: Bear_r_HindLeg_ToeSHJnt_end
+    100084: Bear_ROOTSHJnt
+    100086: Bear_Spine_01SHJnt
+    100088: Bear_Spine_02SHJnt
+    100090: Bear_Spine_03SHJnt
+    100092: Bear_Spine_04SHJnt
+    100094: Bear_Spine_TopSHJnt
+    100096: Bear_Tail_01_01SHJnt
+    100098: Bear_Tail_01_02SHJnt
+    100100: Bear_Tail_01_02SHJnt_end
+    100102: brown_bea4
+    400000: Armature
+    400002: //RootNode
+    400004: Bear_Head_JawEndSHJnt
+    400006: Bear_Head_JawEndSHJnt_end
+    400008: Bear_Head_JawSHJnt
+    400010: Bear_Head_TopSHJnt
+    400012: Bear_l_Clavicle_01_01SHJnt
+    400014: Bear_l_Ear_01_01SHJnt
+    400016: Bear_l_Ear_01_02SHJnt
+    400018: Bear_l_Ear_01_02SHJnt_end
+    400020: Bear_l_FrontLeg_AnkleSHJnt
+    400022: Bear_l_FrontLeg_BallSHJnt
+    400024: Bear_l_FrontLeg_HipSHJnt
+    400026: Bear_l_FrontLeg_KneeSHJnt
+    400028: Bear_l_FrontLeg_ToeSHJnt
+    400030: Bear_l_FrontLeg_ToeSHJnt_end
+    400032: Bear_l_HindLeg_AnkleSHJnt
+    400034: Bear_l_HindLeg_BallSHJnt
+    400036: Bear_l_HindLeg_HipSHJnt
+    400038: Bear_l_HindLeg_KneeSHJnt
+    400040: Bear_l_HindLeg_ToeSHJnt
+    400042: Bear_l_HindLeg_ToeSHJnt_end
+    400044: Bear_MAINSHJnt
+    400046: Bear_Neck_01SHJnt
+    400048: Bear_Neck_02SHJnt
+    400050: Bear_Neck_TopSHJnt
+    400052: Bear_r_Clavicle_01_01SHJnt
+    400054: Bear_r_Ear_01_01SHJnt
+    400056: Bear_r_Ear_01_02SHJnt
+    400058: Bear_r_Ear_01_02SHJnt_end
+    400060: Bear_r_FrontLeg_AnkleSHJnt
+    400062: Bear_r_FrontLeg_BallSHJnt
+    400064: Bear_r_FrontLeg_HipSHJnt
+    400066: Bear_r_FrontLeg_KneeSHJnt
+    400068: Bear_r_FrontLeg_ToeSHJnt
+    400070: Bear_r_FrontLeg_ToeSHJnt_end
+    400072: Bear_r_HindLeg_AnkleSHJnt
+    400074: Bear_r_HindLeg_BallSHJnt
+    400076: Bear_r_HindLeg_HipSHJnt
+    400078: Bear_r_HindLeg_KneeSHJnt
+    400080: Bear_r_HindLeg_ToeSHJnt
+    400082: Bear_r_HindLeg_ToeSHJnt_end
+    400084: Bear_ROOTSHJnt
+    400086: Bear_Spine_01SHJnt
+    400088: Bear_Spine_02SHJnt
+    400090: Bear_Spine_03SHJnt
+    400092: Bear_Spine_04SHJnt
+    400094: Bear_Spine_TopSHJnt
+    400096: Bear_Tail_01_01SHJnt
+    400098: Bear_Tail_01_02SHJnt
+    400100: Bear_Tail_01_02SHJnt_end
+    400102: brown_bea4
+    4300000: brown_bea4
+    7400000: Armature|Armature.001|Take 001|BaseLayer
+    7400002: Armature|Armature|Take 001|BaseLayer.001
+    7400004: Armature|Armature|Take 001|BaseLayer.002
+    9500000: //RootNode
+    13700000: brown_bea4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Armature.001|Take 001|BaseLayer
+      takeName: Armature|Armature.001|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 27.1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt/Bear_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt/Bear_l_HindLeg_ToeSHJnt/Bear_l_HindLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt/Bear_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt/Bear_r_HindLeg_ToeSHJnt/Bear_r_HindLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt/Bear_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt/Bear_l_FrontLeg_ToeSHJnt/Bear_l_FrontLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt/Bear_Head_JawEndSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt/Bear_Head_JawEndSHJnt/Bear_Head_JawEndSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt/Bear_l_Ear_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt/Bear_l_Ear_01_02SHJnt/Bear_l_Ear_01_02SHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt/Bear_r_Ear_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt/Bear_r_Ear_01_02SHJnt/Bear_r_Ear_01_02SHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt/Bear_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt/Bear_r_FrontLeg_ToeSHJnt/Bear_r_FrontLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt/Bear_Tail_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt/Bear_Tail_01_02SHJnt/Bear_Tail_01_02SHJnt_end
+        weight: 1
+      - path: brown_bea4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Take 001|BaseLayer.001
+      takeName: Armature|Armature|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 73
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt/Bear_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt/Bear_l_HindLeg_ToeSHJnt/Bear_l_HindLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt/Bear_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt/Bear_r_HindLeg_ToeSHJnt/Bear_r_HindLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt/Bear_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt/Bear_l_FrontLeg_ToeSHJnt/Bear_l_FrontLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt/Bear_Head_JawEndSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt/Bear_Head_JawEndSHJnt/Bear_Head_JawEndSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt/Bear_l_Ear_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt/Bear_l_Ear_01_02SHJnt/Bear_l_Ear_01_02SHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt/Bear_r_Ear_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt/Bear_r_Ear_01_02SHJnt/Bear_r_Ear_01_02SHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt/Bear_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt/Bear_r_FrontLeg_ToeSHJnt/Bear_r_FrontLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt/Bear_Tail_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt/Bear_Tail_01_02SHJnt/Bear_Tail_01_02SHJnt_end
+        weight: 1
+      - path: brown_bea4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Take 001|BaseLayer.002
+      takeName: Armature|Armature|Take 001|BaseLayer.002
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt/Bear_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_l_HindLeg_HipSHJnt/Bear_l_HindLeg_KneeSHJnt/Bear_l_HindLeg_AnkleSHJnt/Bear_l_HindLeg_BallSHJnt/Bear_l_HindLeg_ToeSHJnt/Bear_l_HindLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt/Bear_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_r_HindLeg_HipSHJnt/Bear_r_HindLeg_KneeSHJnt/Bear_r_HindLeg_AnkleSHJnt/Bear_r_HindLeg_BallSHJnt/Bear_r_HindLeg_ToeSHJnt/Bear_r_HindLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt/Bear_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_l_Clavicle_01_01SHJnt/Bear_l_FrontLeg_HipSHJnt/Bear_l_FrontLeg_KneeSHJnt/Bear_l_FrontLeg_AnkleSHJnt/Bear_l_FrontLeg_BallSHJnt/Bear_l_FrontLeg_ToeSHJnt/Bear_l_FrontLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt/Bear_Head_JawEndSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_JawSHJnt/Bear_Head_JawEndSHJnt/Bear_Head_JawEndSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt/Bear_l_Ear_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_l_Ear_01_01SHJnt/Bear_l_Ear_01_02SHJnt/Bear_l_Ear_01_02SHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt/Bear_r_Ear_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_Neck_01SHJnt/Bear_Neck_02SHJnt/Bear_Neck_TopSHJnt/Bear_Head_TopSHJnt/Bear_r_Ear_01_01SHJnt/Bear_r_Ear_01_02SHJnt/Bear_r_Ear_01_02SHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt/Bear_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Spine_01SHJnt/Bear_Spine_02SHJnt/Bear_Spine_03SHJnt/Bear_Spine_04SHJnt/Bear_Spine_TopSHJnt/Bear_r_Clavicle_01_01SHJnt/Bear_r_FrontLeg_HipSHJnt/Bear_r_FrontLeg_KneeSHJnt/Bear_r_FrontLeg_AnkleSHJnt/Bear_r_FrontLeg_BallSHJnt/Bear_r_FrontLeg_ToeSHJnt/Bear_r_FrontLeg_ToeSHJnt_end
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt/Bear_Tail_01_02SHJnt
+        weight: 1
+      - path: Armature/Bear_MAINSHJnt/Bear_ROOTSHJnt/Bear_Tail_01_01SHJnt/Bear_Tail_01_02SHJnt/Bear_Tail_01_02SHJnt_end
+        weight: 1
+      - path: brown_bea4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

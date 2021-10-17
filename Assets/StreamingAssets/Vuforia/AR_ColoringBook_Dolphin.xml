@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CRABY_FINAL2" size="1.000000 1.000000" />
+    <ImageTarget name="salmon_FINAL2" size="1.000000 1.000000" />
+    <ImageTarget name="BLUEJAY_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="ch_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="eag_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="swangoose_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="robin_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="salmon_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="PERCFISH_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="CRABY_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="octo_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="tiger_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="WOLFY_FINAL" size="1.000000 1.000000" />
+    <ImageTarget name="rabbitbgCOMPLETE" size="1.000000 1.000000" />
+    <ImageTarget name="ibexbgCOMPLETE" size="1.000000 1.000000" />
+    <ImageTarget name="bearbg" size="1.000000 1.000000" />
+    <ImageTarget name="bear2" size="1.000000 1.000000" />
+    <ImageTarget name="rabbitbg" size="1.000000 1.000000" />
+    <ImageTarget name="ibexbg" size="1.000000 1.000000" />
+    <ImageTarget name="rabbitbackground" size="1.000000 0.883750" />
+    <ImageTarget name="lbexbackground" size="1.000000 0.883750" />
+    <ImageTarget name="bearbackground" size="1.000000 0.883750" />
+    <ImageTarget name="AR_SHARK_JPEG" size="1.000000 1.000000" />
+    <ImageTarget name="texture2" size="1.000000 1.000000" />
+    <ImageTarget name="Duck" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
